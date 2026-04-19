@@ -1,6 +1,6 @@
 when I started this project, I wanted to make something perfect that peolpe will remember me for.
 
-I started by started with the foundation of every vs code project.I created files like index.html, styles.css, and script.js. unfortunately i didn't correctly name and my hackatime was alreadyan hour in so i decided not to change the name after that i then created assets folder where I put the logo and all the school pictures that where provided.
+I started by started with the foundation of every vs code project.I created files like index.html, styles.css, and script.js. unfortunately i didn't correctly name my file and my hackatime was already an some minutes in so i decided not to change the name after that i then created assets folder where I put the logo and all the school pictures that where provided.
 
 After that, I started proper worked on the HTML. I created all the sections like the header, the main intro part, about the school, history, facilities, gallery, admissions, contact, and the footer. I wasn’t trying to make it look nice at this point, I just made sure everything was there and in the right place. I imagined it as building the base before decorating anything.
 
