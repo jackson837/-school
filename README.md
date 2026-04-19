@@ -20,6 +20,6 @@ One thing I learnt from this is that it’s really easy to get stuck if you try 
 At the end, I was able to make a colourful, modern, and working school website in approximately 60+ hours unluckily for me i hackatime doesn't track offline hour.
 
 
-within the timeline of this project i learnt to be more create and how to network with other people because even though it was my idea, my friend are the main reason why this has become a reality and thankyou hack club for give me the motivation to make something real. 
+within the timeline of this project i learnt to be more creative and how to netword with other people because even though it was my idea, my friend are the main reason why this has become a reality and thankyou hack club for give me the motivation to make something real. 
 
 also i decided to share my favorite reel. it's my favorite because it remindes me that not every-one can do what i do and it also funny(be warned they used the F word) https://www.instagram.com/reel/DIOOqCLgIds/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==  😌
