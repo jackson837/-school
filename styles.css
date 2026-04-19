@@ -1,4 +1,4 @@
-/* Triumphgate Model School — Modern, responsive design */
+
 :root {
   --bg: #ffffff;
   --text: #0f172a;
@@ -9,7 +9,7 @@
   --ring: #93c5fd;
   --card: #ffffff;
 }
-/* Dark theme */
+
 :root.dark {
   --bg: #0b1220;
   --text: #fafafa;
