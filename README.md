@@ -17,7 +17,7 @@ In the last few hours, I tested everything. I checked it on both my laptop and p
 
 One thing I learnt from this is that it’s really easy to get stuck if you try to speed up the process or if you try to finish in a day.
 
-At the end, I was able to make a colourful, modern, and working school website in approximately 60+ hours unluckily for me i hackatime doesn't track offline hour.
+At the end, I was able to make a colourful, modern, and working school website in approximately 50+ hours unluckily for me i hackatime doesn't track offline hour.
 
 incase you don't get how i used ai, i use ai to help make the grammar sound more proprofessional and to fix to code when i had issues 
 
