@@ -24,4 +24,3 @@ incase you don't get how i used ai, i use ai to help make the grammar sound more
 
 within the timeline of this project i learnt to be more creative and how to netword with other people because even though it was my idea, my friend are the main reason why this has become a reality and thankyou hack club for give me the motivation to make something real, am also open to create hack club a website any day.
 
-also i decided to share my favorite reel. it's my favorite because it remindes me that not every-one can do what i do and it also funny(be warned they used the F word) https://www.instagram.com/reel/DIOOqCLgIds/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==  😌
